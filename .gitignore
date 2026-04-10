@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# OS files
+.DS_Store
+
+# Temp Excel files
+~$*
+
+# Large data files (tracked via README download link)
+*.xlsx
+*.zip
+*.csv
+
+# Keep the analysis output
+!campaign_analysis/
