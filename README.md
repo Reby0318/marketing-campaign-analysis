@@ -44,7 +44,6 @@ marketing-campaign-analysis/
 │       ├── 12_feature_importance.png
 │       ├── 13_predicted_vs_actual.png
 │       └── 14_correlation_matrix.png
-└── Evaluating_and_Developing_a_Marketing_Strategy_.pdf
 ```
 
 ## Dataset
